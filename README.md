@@ -16,7 +16,7 @@ Run on Terminal
 
 node liri.js concert-this "BAND NAME"
 
-Images/Screen Shot 2019-08-24 at 2.55.36 PM.png
+![alt text] https://github.com/MFRasfan/LIRI-Bot/blob/master/Images/Screen%20Shot%202019-08-24%20at%202.55.36%20PM.png
 
 2 . spotify-this-song
 
