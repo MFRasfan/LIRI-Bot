@@ -17,7 +17,7 @@ Run on Terminal
 node liri.js concert-this "BAND NAME"
 
 
- ![alt text] (LIRI-Bot/Images/Screen Shot 2019-08-24 at 2.55.36 PM.png)
+ ![alt text] (/Images/Screen Shot 2019-08-24 at 2.55.36 PM.png)
 
  
 
@@ -28,7 +28,7 @@ Run on Terminal
 node liri.js spotify-this-song "SONG NAME"
 
 
- ![alt text] (LIRI-Bot/Images/Screen Shot 2019-08-24 at 2.57.41 PM.png)
+ ![alt text] (/Images/Screen Shot 2019-08-24 at 2.57.41 PM.png)
 
 
 3 . movie-this
@@ -38,7 +38,7 @@ Run on Terminal
 node liri.js movie-this "MOVIE NAME"
 
 
-![alt text] (LIRI-Bot/ Images/Screen Shot 2019-08-24 at 3.00.33 PM.png)
+![alt text] (/Images/Screen Shot 2019-08-24 at 3.00.33 PM.png)
 
 
 3 . do-what-it-says
@@ -51,5 +51,5 @@ node liri.js do-what-it-says
 LIRI Bot will run spotify-this-song for I Want it That Way. It reads the file random.txt and processes the commands in it (spotify-this-song, I Want it That Way) and runs it.
 
 
-![alt text] (LIRI-Bot/Images/Screen Shot 2019-08-24 at 3.02.41 PM.png)
+![alt text] (/Images/Screen Shot 2019-08-24 at 3.02.41 PM.png)
 
