@@ -24,7 +24,7 @@ Run on Terminal
 
 node liri.js spotify-this-song "SONG NAME"
 
-Images/Screen Shot 2019-08-24 at 2.57.41 PM.png
+ ![alt text] (Images/Screen Shot 2019-08-24 at 2.57.41 PM.png)
 
 3 . movie-this
 
